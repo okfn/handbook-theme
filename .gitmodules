@@ -1,0 +1,3 @@
+[submodule "paulonia_handbook"]
+	path = paulonia_handbook
+	url = https://github.com/PauloniaAQP/paulonia_handbook

@@ -7,19 +7,16 @@
     <!--[if lt IE 8]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
-    <div id="ok-panel" class="closed"><div class="container"><iframe src="//a.okfn.org/html/oki/panel/panel.html" scrolling="no"></iframe></div></div>
-    <div>
-      <div id="ok-panel-wrapper">
-        <a class="white ok-ribbon" href="https://okfn.org/"><img src="//a.okfn.org/html/oki/panel/assets/images/oki-ribbon.png" alt="Open Knowledge International"></a>
-      </div>
-      <div>
+    <div class="page-panel">
+      <div class="page-wrapper">
         {% include header.html %}
 
         <div class="page-content">
           {{ content }}
+          {% include footer.html %}
         </div>
 
-        {% include footer.html %}
+        
       </div>
     </div>
 

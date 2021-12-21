@@ -1,38 +1,27 @@
 {% assign url_parts = page.url | split: '/' %}
-{% assign url_last = url_parts |last  %}
+{% assign url_last = url_parts | last  %}
 
 <header class="site-header">
   <a href="#menu" class="show-menu"><span class="text">Open the menu</span></a>
   <a class="site-title" href="{{ site.baseurl }}/">{{ site.short_title }}</a>
 </header>
 
-<nav id="menu">
+<nav id="menu" class="site-menu">
   <ul>
     <li>
       <a href="{{ site.baseurl }}/">Home</a>
     </li>
 
     <li>
-      <a href="{{ site.baseurl }}/pages/">Pages</a>
+      <a href="{{ site.baseurl }}/{{ site.handbooks_path }}/backend">Backend Handbook</a>
       <ul>
-        <li {% if url_last == 'pages' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/pages/">Page One</a>
+        <li {% if url_last == 'backend' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/{{ site.handbooks_path }}/backend/">Introducción</a>
         </li>
-        <li {% if url_last == 'page-two' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/pages/page-two/">Page Two</a>
-        </li>
-        <li {% if url_last == 'page-three' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/pages/page-three/">Page Three</a>
+        <li {% if url_last == 'roles' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/{{ site.handbooks_path }}/backend/roles">Roles</a>
         </li>
       </ul>
-    </li>
-    
-    <li {% if url_parts contains 'posts' %}class="Selected"{% endif %}>
-      <a href="{{ site.baseurl }}/posts/">Posts</a>
-    </li>
-    
-    <li {% if url_last ==  'credits' %}class="Selected"{% endif %}>
-      <a href="{{ site.baseurl }}/credits/">Credits</a>
     </li>
 
 </nav>

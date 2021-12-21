@@ -1,14 +1,17 @@
 # Site settings
-title: Site Long Title
-short_title: Site Title
+title: Paulonia Handbook
+short_title: Paulonia Handbook
 description: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eleifend metus eget justo tincidunt, nec consequat turpis pretium. Etiam varius tellus tortor, in mattis ex convallis vel.
+    Documentación de todos los procesos de Paulonia.
 baseurl: ""
-url: "http://opendatahandbook.org" # the base hostname & protocol for your site
-github_username:  okfn
-github_repo:  opendatahandbook
-paypal: admin@okfn.org
-contact: https://discuss.okfn.org/c/network-and-community/open-data-handbook
+handbooks_path: "paulonia_handbook"
+url: "http://opendatahandbook.org" # the base hostname & protocol for your handbook site
+home: "https://paulonia.dev" # the base hostname & protocol for your main company site
+company_logo: paulonia.png
+github_username:  PauloniaAQP
+github_repo:  paulonia_handbook
+contact: https://paulonia.dev/contacto
+
 
 devs:
   -
@@ -20,17 +23,6 @@ contributors:
       name: Rufus Pollock
       link: http://rufuspollock.org/
 
-supporters:
-  -
-    name: Shuttleworth Foundation
-    logo: shuttleworth.png
-    footer_logo: shuttleworth-footer.png
-    url: https://www.shuttleworthfoundation.org/
-  -
-    name: The World Bank
-    logo: worldbank.png
-    footer_logo: worldbank-footer.png
-    url: http://www.worldbank.org/
 
 
 #googleanalytics: UA-XXXXX-X
@@ -42,37 +34,13 @@ permalink: pretty
 defaults:
   -
     scope:
-      path: "pages"
+      path: "paulonia_handbook/backend"
     values:
       layout: page
-      section: pages
+      section: Backend Handbook
   -
     scope:
       path: "posts"
     values:
       layout: post
       section: posts
-
-
-related_projects:
-  -
-      name: OpenGovernmentData.org
-      link: http://opengovernmentdata.org/
-  -
-      name: The DataHub
-      link: http://datahub.io/
-  -
-      name: DataCatalogs.org
-      link: http://datacatalogs.org/
-  -
-      name: OpenSpending.org
-      link: http://openspending.org/
-  -
-      name: SchoolOfData.org
-      link: http://schoolofdata.org/
-  -
-      name: OpenDefinition.org
-      link: http://opendefinition.org/
-  -
-      name: Introducing Open Data
-      link: http://okfn.org/opendata/

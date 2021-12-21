@@ -22,13 +22,17 @@ $extra-large-screen: em(1280);
 body {
   background-color:#fff;
   font-family: $sans-serif;
-  font-size: rem(15);
+  font-size: rem(21);
   line-height: 1.6em;
 }
 
-
-h1, h2, h3, p {
+p {
   margin: 0;
+}
+
+h2, h3 {
+  margin-top: 35px !important;
+  margin-bottom: 30px !important;
 }
 
 hr {
@@ -42,11 +46,19 @@ hr {
 p {
   color: $base-font-color;
   line-height: $base-line-height;
+  font-size: rem(21) !important;
 }
 
 a {
   color: $base-link-color;
   text-decoration: none;
+}
+
+.site-menu{
+
+  li {
+    font-size: rem(16) !important;
+  }
 }
 
 .headerlink {
@@ -642,6 +654,7 @@ body:not( .filters ) {
     font-weight:700;
     display:block;
     margin-left: 75px;
+    max-width: 300px;
 
     @include media($small-screen) {
       letter-spacing:2px;

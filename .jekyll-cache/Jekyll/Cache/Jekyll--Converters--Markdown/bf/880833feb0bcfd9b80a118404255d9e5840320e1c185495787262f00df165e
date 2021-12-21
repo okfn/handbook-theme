@@ -1,0 +1,69 @@
+I"N<h2 id="team-lead">Team lead</h2>
+
+<p>Es la persona encargada de todo el área de backend. Tiene las siguientes responsabilidades:</p>
+
+<ul>
+  <li>Asignar los diferentes roles a cada miembro del equipo de backend.</li>
+  <li>Es la persona encargada de que todo lo descrito en este handbook sea cumplido.</li>
+  <li>Tener reuniones 121 con los diferentes miembros del equipo para conocer su situación laboral y personal.</li>
+  <li>Ser proactivo en cuanto a ideas de mejora tecnológica y de procesos de la empresa.</li>
+  <li>Es la persona encargada de documentar la mayoría de procesos del equipo de backend, así como procesos y
+documentación técnica.</li>
+  <li>Crear tareas de DevOps, documentación y de mejora de procesos de la empresa.</li>
+</ul>
+
+<p>La persona elejida tiene que tener las siguientes características:</p>
+
+<ul>
+  <li>Tiene que ser programador Senior, con una amplia experiencia en diferentes tecnologías.</li>
+  <li>Tener experiencia y conocimiento de los diferentes procesos de la empresa en general.</li>
+  <li>Haber pasado antes por el rol de <a href="#project-lead">Project lead</a>.</li>
+  <li>Ser ordenado y proactivo.</li>
+  <li>Tener experiencia y/o motivación para documentar procesos.</li>
+</ul>
+
+<h2 id="project-lead">Project lead</h2>
+
+<p>Es la persona encargada de guiar un proyecto en específico. Este rol también puede ser tomado por el <a href="#teaml-lead">Team lead</a>. Tiene las siguientes responsabilidades:</p>
+
+<ul>
+  <li>Crear las épicas y las tareas correspondientes de un proyecto. Las tareas tienen que estar bien especificadas
+para que cualquier miembro del equipo (incluyendo el project lead) pueda entender y realizar la tarea. Además en cada ticket se debe colocar dependencias con otras tareas y links a documentación externa que ayude a entender mejor la tarea (Figma, documentos, videos, links a código, etc).</li>
+  <li>Si el proyecto está en etapa de producción y mantenimiento, una vez por semana revisar el Sentry del proyecto
+y crear las tareas de mantenimiento correspondientes.</li>
+  <li>Asignar las tareas creadas a los miembros del equipo y asignar reviewers a cada una. Esto se debe realizar el
+miercoles de la seguna semana del sprint (o antes del sprint review) en coordinación con el project manager de la empresa.</li>
+  <li>Es el encargado de revisar el avance de las tareas en cada sprint.</li>
+  <li>Es el encargado de revisar las tareas en la columna <code class="language-plaintext highlighter-rouge">Ready</code> y pasarlas a la columna <code class="language-plaintext highlighter-rouge">Done</code>.</li>
+</ul>
+
+<p>La persona elejida tiene que tener las siguientes características:</p>
+
+<ul>
+  <li>Tiene que ser programador Senior, con experiencia en las tecnologías a usar en el proyecto.</li>
+  <li>Tener conocimiento de los procesos ágiles que se siguen en la empresa.</li>
+  <li>Haber pasado antes por un rol de desarrollador y reviewer.</li>
+  <li>Ser muy ordenado como para hacerce responsable de las épicas y tareas de un proyecto.</li>
+  <li>Tener experiencia y/o motivación para la especificación y planificación de épicas y tareas.</li>
+</ul>
+
+<h2 id="desarrollador">Desarrollador</h2>
+
+<p>Es cualquier miembro del equipo que tenga asignada una tarea. Este rol también puede ser tomado por el Team lead y el Project lead. Tiene las siguientes responsabilidades:</p>
+
+<ul>
+  <li>El desarrollador tiene la obligación de cumplir sus tareas asignadas de la mejor forma posible, cumpliendo con
+lo descrito en cada tarea.</li>
+  <li>El desarrollador se compromete a cumplir con todas sus tareas asignadas antes del fin del sprint para evitar
+cualquier tipo de retrasos. Si a mitad del sprint se da cuenta de que no va a poder terminar alguna tarea,
+comunicarlo inmediatamente al project lead o al reviewer de la tarea.</li>
+</ul>
+
+<h2 id="reviewer">Reviewer</h2>
+
+<p>Es cualquier miembro del equipo que tenga que revisar una tarea. Este rol también puede ser tomado por el Team lead y el Project lead. Tiene las siguientes responsabilidades:</p>
+
+<ul>
+  <li>El reviewer se compromete a revisar el código/tarea de un desarrollador de manera conciente.</li>
+</ul>
+:ET
