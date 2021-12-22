@@ -20,6 +20,18 @@ wide: true
     </div>
     {% endif %}
 
+    {% if page.quote and page.quote.content %}
+    <div class="div-quote">
+      <div class="div-quote-content">
+          <img src="{{ site.baseurl }}/img/quote.png" height="60">
+          <p class="quote-content">{{ page.quote.content }}</p>
+      </div>
+      {% if page.quote.author %} <p class="quote-author">{{ page.quote.author }}</p> {% endif %}
+      {% if page.quote.authorPosition %} <p class="quote-author-sub">{{ page.quote.authorPosition }}</p> {% endif %}
+    </div>
+    {% endif %}
+
+
     {{ content }}
   </article>
 

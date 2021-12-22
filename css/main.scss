@@ -36,11 +36,8 @@ h2, h3 {
 }
 
 hr {
-  border-bottom: 1px solid $medium-gray;
-  border-left: none;
-  border-right: none;
-  border-top: none;
-  margin: $base-spacing 0;
+  border-bottom: 1px solid black;
+  width: 100% !important;
 }
 
 p {
@@ -52,6 +49,31 @@ p {
 a {
   color: $base-link-color;
   text-decoration: none;
+}
+
+.div-quote {
+
+  .div-quote-content {
+    padding-left: 250px;
+    display: flex;
+    justify-content: center;
+
+    .quote-content {      
+      margin-bottom: 20px !important;
+    }
+
+  }
+
+  .quote-author {
+    text-align: right;
+    margin-bottom: 0 !important;
+    font-weight: bold;
+  }
+
+  .quote-author-sub {
+    text-align: right;
+  }
+
 }
 
 .site-menu{
@@ -1416,23 +1438,21 @@ html.mm-background .mm-page,
   }
 
   & > .wrapper {
+    padding: 50px;
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+
     & > div {
       padding:$base-spacing;
+      max-width: 600px;
       @include media($medium-screen) {
         @include span-columns(4);
         position:relative;
         padding-top: $base-spacing * 2;
-
-        &:after {
-          content:'';
-          background-color:$medium-gray;
-          display: block;
-          position: absolute;
-          top:$base-spacing;
-          right: - $base-spacing / 2;
-          bottom:0;
-          width: 1px;
-        }
 
         &:last-child:after {
           display:none;

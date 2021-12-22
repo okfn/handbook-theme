@@ -1,0 +1,56 @@
+I"M	<h2 id="etapa-de-investigación">Etapa de investigación</h2>
+
+<hr />
+
+<ul>
+  <li><strong>Input necesario:</strong>
+    <ul>
+      <li>Documento de Requerimientos</li>
+    </ul>
+  </li>
+  <li><strong>Input opcional:</strong>
+    <ul>
+      <li>Cualquier otro documento que pueda servir para la investigación</li>
+    </ul>
+  </li>
+  <li><strong>Output:</strong>
+    <ul>
+      <li>Documentación para cada incertidumbre encontrada</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<p>Antes de comenzar un nuevo proyecto o una nueva épica que agregue un nuevo módulo o una gran funcionalidad debe haber una etapa de investigación. Aquí se resuelven todas las incertidumbres respecto a la arquitectura, algoritmos complejos y tecnologías nuevas a usar en el proyecto.
+El tiempo que demore esta etapa depende del número de incertidumbres a investigar, pero no debe demorar más de un sprint, porque esta etapa mayormente es considerada en el sprint 0.</p>
+
+<h2 id="planeación-de-la-arquitectura">Planeación de la arquitectura</h2>
+
+<hr />
+
+<ul>
+  <li><strong>Input necesario:</strong>
+    <ul>
+      <li>Documento de Requerimientos</li>
+    </ul>
+  </li>
+  <li><strong>Input opcional:</strong>
+    <ul>
+      <li>Cualquier otro documento que pueda servir para la planeación de la arquitectura</li>
+    </ul>
+  </li>
+  <li><strong>Output:</strong>
+    <ul>
+      <li>Documentación de la arquitectura a usar</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<p>En esta etapa se crea la arquitectura principal de la aplicación, sus servicios y la base de datos. Se tiene que ver en dónde va a estar alocado el backend de la aplicación y la integración con los diferentes servicios. En Paulonia estamos especializados en Google Cloud Platform y Firebase, así que ya se tiene una arquitectura base para las aplicaciones que utilicen estos servicios. Si por razones tecnológicas o del cliente se va a utilizar otras tecnologías (servidores físicos u otro proveedor de la nube), entonces el pensar cómo armar la arquitectura en esa tecnología se realiza en esta etapa.</p>
+
+<p>Además, se necesita ver cómo integrar servicios externos a la arquitectura, como por ejemplo un servicio de streaming de video, o un servicio de mensajería. Lo mismo ocurre con la base de datos, dependiendo de la tecnología, se necesita saber cómo se va a integrar esta a la arquitectura de la aplicación.</p>
+
+:ET

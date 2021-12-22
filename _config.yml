@@ -37,10 +37,28 @@ defaults:
       path: "paulonia_handbook/backend"
     values:
       layout: page
-      section: Backend Handbook
+      section: Paulonia Cloud Handbook
   -
     scope:
-      path: "posts"
+      path: "paulonia_handbook/studios"
     values:
-      layout: post
-      section: posts
+      layout: page
+      section: Paulonia Studios Handbook
+  -
+    scope:
+      path: "paulonia_handbook/development"
+    values:
+      layout: page
+      section: Paulonia Development Handbook
+  -
+    scope:
+      path: "paulonia_handbook/commercial"
+    values:
+      layout: page
+      section: Paulonia Commercial Handbook
+  -
+    scope:
+      path: "paulonia_handbook/paulonia"
+    values:
+      layout: page
+      section: Paulonia Handbook

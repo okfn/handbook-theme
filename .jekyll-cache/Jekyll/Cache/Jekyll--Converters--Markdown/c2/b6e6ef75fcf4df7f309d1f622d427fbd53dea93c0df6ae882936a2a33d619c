@@ -1,0 +1,539 @@
+I"~p<h2 id="etapas-de-diseño">Etapas de Diseño</h2>
+
+<h3 id="discover">Discover</h3>
+
+<p>Cliente y banco de preguntas.</p>
+
+<h3 id="benchmark">Benchmark</h3>
+
+<p><strong>¿Qué hacemos en Benchmark?</strong></p>
+
+<p>En ésta etapa conocemos más acerca del rubro del cliente, analizamos soluciones digitales similares vigentes en el mercado, tendencias en diseño,
+referencias visuales y de navegación, tenemos que asegurarnos que el producto que vamos a diseñar esté dentro del estándar del mercado. Es ahora
+cuando debes concentrarte y traer a tu mente todo lo relacionado al rubro y
+todo lo que creas que pueda aportar, todo esto con el propósito de que puedas
+ir ordenando, descartando, seleccionando ideas e ir mapeando la solución o
+producto final.</p>
+
+<p><strong>¿Cómo hacemos un Benchmark?</strong></p>
+
+<p>Nuestro <em>Benchmark</em> se divide en dos perspectivas UX y UI, esto porque ambas
+áreas tienen intereses diferentes, el UX implica todo lo relacionado a usabilidad,
+mientras que el UI se interesa por la parte visual, pero ambos tienen que
+complementarse para ofrecer una buena experiencia de usuario.</p>
+
+<ul>
+  <li>
+    <p><strong>Perspectiva UX:</strong></p>
+  </li>
+  <li>
+    <p><strong>Perspectiva UI:</strong> Como diseñador UI, tienes la responsabilidad de hacer
+ una investigación centrada en términos visuales, esto incluye el estilo gráfico, las formas que se usan, diferentes tipos de iconografías, tipografías,colores y todo lo que te guste o llame tu atención y tengas la certeza que
+ será de agrado para los usuarios.</p>
+
+    <p>Para hacer un <em>Benchmark</em> desde de la perspectiva UI, lo primero que
+ hacemos es mapear aproximadamente 6 a 8 soluciones digitales vigentes
+ en el mercado, para la selección de éstas, se considera:</p>
+    <ul>
+      <li>la calificación</li>
+      <li>número de comentarios</li>
+      <li>aceptación por parte del público</li>
+    </ul>
+
+    <p>Una vez seleccionadas procedemos a descargarlas y a probar todas las
+ funcionalidades para poder navegar por todas la interfaces e ir tomando
+ capturas de las cosas que nos parezcan interesantes, cabe mencionar que
+ si en este proceso encuentras algo interesante en términos de UX puedes
+ comentarlo al equipo de UX libremente, ¡todo aporte cuenta!.</p>
+
+    <p>Es importante que éste estudio se haga con soluciones digitales de 
+ competencia directa pero no te sientas limitado, puedes incluir soluciones
+ digitales extranjeras que tengan aceptación en sus países y hasta de otros
+ rubros siempre y cuando lo amerite.</p>
+
+    <p>Este estudio forma parte de la <em>“Estructura del proyecto”</em> como <em>“Benchmark”</em>,
+ la forma en que se plasma éste estudio es teniendo en cuenta lo
+ siguiente:</p>
+
+    <ul>
+      <li>Primero, debes asegurarte de anotar todo lo positivo y negativo de la
+solución digital que estés evaluando siguiendo la plantilla establecida
+en la <em>“Estructura del proyecto”</em>.</li>
+      <li>Segundo, debes adjuntar las capturas de pantalla en un mismo tamaño,
+así como también los <em>screenshots</em> que dichas soluciones digitales
+suben a tienda, esto te servirá como recurso al momento de diseñar
+los <em>screenshots</em> del producto que estás diseñando.</li>
+    </ul>
+
+    <p>Una vez que hayas hecho todo este proceso podemos decir que tu <em>Benchmark</em>
+ está casi listo, como último paso debes definir dentro de tu <em>Benchmark</em>
+ cuál es el estilo que más se aproxima al estilo que quieres darle al
+ producto final para que lo expongas ante el cliente.</p>
+
+    <p>Ten en cuenta que puedes poner como referencia visual todo lo que
+ tú creas que te servirá, puedes apoyarte en plataformas como <em>Pinterest,
+ Dribbble, Behance.</em> Es recomendable que tengas un tablero personal donde
+ puedas ir recolectando todo lo que guste e ir categorizando por elementos
+ ejemplo: <em>Un tablero donde sólo tengas diseños de NavBar, estilos de cards,
+ perfil de usuario etc.</em></p>
+  </li>
+</ul>
+
+<p><strong>Casos que debes tener en cuenta para empezar hacer tu Benchmark…</strong></p>
+
+<ul>
+  <li>
+    <p><strong>Escenarios que pueden presentarse y afectan directamente al UX:</strong> 
+  Como diseñador UX, tienes la responsabilidad de hacer énfasis en la
+  investigación ….</p>
+  </li>
+  <li>
+    <p><strong>Escenarios que pueden presentarse y afectan directamente al UI:</strong></p>
+
+    <ul>
+      <li>
+        <p><strong>Cuando el cliente no tiene un estilo gráfico definido y está abierto a propuestas:</strong>
+  En este caso ¡eres libre de presentar las propuestas
+  que consideres!, obviamente teniendo en cuenta las buenas prácticas,
+  puedes incluir en tu <em>Benchmark</em> absolutamente todo aquello que
+  consideres necesario.</p>
+      </li>
+      <li>
+        <p><strong>Cuando el cliente tiene definido un estilo gráfico y aporta referencias válidas:</strong>
+  En este caso ya tendrás definido el estilo gráfico
+  ejemplo: Si el cliente tiene una linea gráfica minimalista, entonces
+  tienes que adecuarte a ello, y en tu <em>Benchmark</em> inclinarte a estilos
+  que vayan de acuerdo al estilo del cliente, esto no significa imitar o
+  limitarse a posibles referencias o recursos que el cliente provee, sino
+  respetar una linea gráfica pero puedes aportar mejoras o quizá una
+  nueva propuesta manteniendo el estilo.</p>
+      </li>
+      <li>
+        <p><strong>Cuando el cliente tiene definido un estilo gráfico y aporta referencias con ciertas falencias:</strong>
+  ¡Éste el momento donde debes mostrar tu conocimiento!, si encuentras muchas falencias por ejemplo
+  <em>exceso de recursos gráficos en una interfaz, exceso de iconografía, estilo
+  de letra ilegible etc…</em> en una referencia visual, o un diseño de interfaz como tal y esto proviene del cliente, tienes que hacerlo saber,
+  <strong>fundamentar</strong> porque no es recomendable seguir dicha referencia o
+  diseño. Hasta entonces, debes seguir con tu <em>Benchmark</em> y tener un
+  banco de propuestas listas para hacer un contraste con las actuales
+  referencias y presentarlas al cliente, en este punto hay dos opciones,
+  la primera que el cliente no acceda a las nuevas propuestas e insista
+  en sus referencias y la segunda que opte por una nueva propuesta. Si
+  se da el primer caso, tienes el reto de adaptarte y diseñar una versión
+  mejorada, por otro lado, de darse el segundo caso, tienes el reto de
+  demostrar porque tu propuesta fue la mejor opción.</p>
+
+        <p>Si te encuentras en este escenario recuerda que <em>el cliente no siempre
+  tiene la razón.</em></p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>¿Cómo saber que terminé mi Benchmark satisfactoriamente?</strong></p>
+
+<ul>
+  <li>Un primer indicador para que tu etapa de <em>Benchmark</em> pueda considerarse
+terminada es que en la <em>“Estructura del proyecto”</em> el <em>“Benchmark”</em> esté
+cumpliendo con todo lo establecido en la plantilla estándar.</li>
+  <li>Segundo, que todo este proceso haya sido expuesto al cliente en un
+tiempo adecuado y haber recibido <em>feedback</em>.</li>
+  <li>Tercero, que tú como diseñador te sientas satisfecho con el <em>Benchmark</em>
+que obtuviste, y tengas la seguridad de lo que quieres hacer.</li>
+</ul>
+
+<p>Si cumpliste con estos tres puntos, da por terminado tu <em>Benchmark</em></p>
+
+<p><strong>¿Que hacer si no termino mi Benchmark satisfactoriamente?</strong></p>
+
+<p>Si no logras cumplir los tres puntos mencionados en el apartado anterior, no
+te preocupes siempre hay una solución.</p>
+
+<p>Si no cumpliste con el primer punto y notas que en la <em>“Estructura del proyecto”</em>
+el <em>“Benchmark”</em> no está cumpliendo con todo lo establecido en la plantilla estándar
+o notas un número considerable de falencias, puedes tomarte un tiempo
+para corregir dichas falencias, investigar un poco en internet o puedes pedir
+feedback a algún integrante del equipo de UI, recuerda que podrás tomarte un
+tiempo extra siempre y cuando esto no <strong>afecte</strong> a otras áreas.</p>
+
+<p>Si no pudiste exponer tu <em>Benchmark</em> con el cliente en el tiempo adecuado
+esto sólo puede deberse a una causa y es la ausencia del cliente a las reuniones
+pactadas, en este caso si existe un <em>deadline</em> muy estricto, bastará con enviar un
+correo al cliente con el link del proyecto con las indicaciones correspondientes
+y puntos claves del <em>Benchmark</em>, si existe un <em>deadline</em> ajustable, previa coordinación
+con tu supervisor se puede programar dicha reunión para una próxima
+fecha y exponer el <em>Benchmark</em>.</p>
+
+<p>Si tú como diseñador no te sientes satisfecho con el <em>Benchmark</em> que obtuviste,
+¡tómate un tiempo extra! para complementar tu <em>Benchmark</em>, lo importante aquí
+es que te sientas satisfecho, contento, y seguro de lo que estás haciendo, pero
+recuerda que si tomas tiempos extras debes asegurarte que éstos no <strong>afecten</strong> a
+otras áreas.</p>
+
+<p>Finalmente, si no pudiste cumplir con los tres puntos y no hay tiempos extras
+por tomar, comunícaselo a tu supervisor para que pueda tomar las acciones necesarias,
+es importante que detectes lo mas pronto posible cualquier problema
+que pueda afectar tu tiempo de entrega.</p>
+
+<h3 id="ui">UI</h3>
+
+<p><strong>¿Qué implica el UI?</strong></p>
+
+<p>El UI es la parte visual de todo producto digital, tiene que cumplir con ciertos
+estándares y buenas prácticas, dentro de nuestro proceso de UI tenemos dos
+sub-etapas: <strong>El Sistema de diseño o Design System y el Diseño de interfaces
+en alta fidelidad</strong>.</p>
+
+<ul>
+  <li>
+    <p><strong>Sistema de diseño o Design System</strong></p>
+
+    <ul>
+      <li>
+        <p><strong>¿Qué es un Sistema de diseño o Design System?:</strong>
+  El Sistema de diseño o <em>Design System</em> es un “lenguaje” el cual nos permite comunicar
+  como está compuesto el diseño de nuestro producto
+  digital, aquí se especifican todos los detalles de cada elemento por
+  ejemplo los colores que se están usando, la tipografía, iconografía, y
+  componentes con sus diferentes comportamientos.</p>
+      </li>
+      <li>
+        <p><strong>¿Cómo está compuesto el Sistema de diseño o Design System?:</strong>
+  Dentro de la <em>Estructura del proyecto</em> esta sección lleva el nombre
+  como tal <em>Design System</em>, cabe resaltar que se debe seguir la plantilla
+  establecida en el proyecto, a continuación se detalla cada parte que
+  lo conforma:</p>
+
+        <ul>
+          <li>
+            <p><strong>Colores:</strong> Primero tienes que tomar en cuenta si el cliente tiene
+  colores corporativos por lo general es así, si los colores exceden
+  a 3, lo propio es elegir 2 o tal vez 1 como veas conveniente y
+  empezar a crear una paleta de colores en base a dichos colores
+  siempre tomando en cuenta las buenas prácticas.</p>
+
+            <p>Si es que el cliente aún no ha definido sus colores corporativos,
+  entonces tienes que empezar a investigar un poco acerca del
+  rubro, revisar conceptos de psicología del color, puedes dar un
+  vistaso a tu <em>Benchmark</em> para ver que colores se usan en el mercado
+  etc, y a raíz de ello hacer tu propuesta con la paleta de colores
+  que definas, ten en cuenta que al menos tener un color primario
+  y secundario dentro de tu paleta, estos si o si tienen que ser
+  validados por el cliente, intenta tener al menos 3 paletas de
+  colores como propuesta.</p>
+
+            <p>Como segundo paso, una ves que tengas definidos los colores
+  que utilizarás es recomendable que generes al menos 4 de sus
+  variaciones desde una tonalidad fuerte a una baja, esto para que
+  tengas lo recursos listos si llegas a necesitarlos.</p>
+
+            <p>En tercer lugar, considera siempre tener una gama con variantes
+  de grises ¡es muy util!, tampoco olvides de considerar colores
+  externos para cubrir los casos de error, alguna etiqueta especial,
+  casos de éxito etc.</p>
+
+            <p>Finamente recuerda que tienes que definir todos estos colores
+  como <em>Estilos</em> es decir ponerle un nombre específico para que
+  puedan identificarse con facilidad, esto es de gran ayuda tanto
+  para ti como diseñador y también para desarrolladores.</p>
+          </li>
+          <li>
+            <p><strong>Tipografía:</strong> Así como en los colores en ocasiones el cliente 
+  tiene definida una tipografía, en este caso debes evaluar si dicha
+  tipografía es la adecuada para el tipo de producto que se quiere
+  diseñar, si identificas que dicha tipografía no es la adecuada,
+  hazlo saber y <strong>fundamenta el porqué.</strong></p>
+
+            <p>Si el cliente insiste en que se tiene que usar la tipografía que
+  está proporcionando como recurso, tendrás el reto de adaptar
+  dicha tipografía en tus interfaces de la mejor manera posible. Por
+  otro lado, si el cliente está abierto a nuevas propuestas, tendrás
+  que hacer una pequeña investigación acerca de cómo y cuando
+  usar cierto tipos de tipografías y bajo los criterios que encuentres
+  seleccionar al menos 4 o 5 posteriormente harás las pruebas y
+  nuevamente seleccionaras 2, estas 2 últimas serán presentadas al
+  cliente para una decisión final, puede darse que se utilicen hasta
+  2 tipografías para un proyecto pero no es recomendable.</p>
+
+            <p>Recuerda que debes de poner el tipo de tipografía respetando
+  la plantilla que se encuentra en el <em>Design System</em> dentro de la
+  <em>“Estructura del proyecto”</em>. <strong>Hasta este paso puedes trabajar de
+  forma paralela con el proceso de UX.</strong></p>
+
+            <p>A partir de ahora será <strong>necesario que te asegures que el proceso
+  de UX esté terminado y validado.</strong></p>
+
+            <p>El siguiente paso para ir definiendo los diferentes estilos de la
+  tipografía que seleccionaste, es que a medida que diseñes las
+  interfaces y componentes vayas probando y definiendo cada
+  estilo por ejemplo: <em>TextButton 14px</em> podría ser la etiqueta para
+  el estilo que se usará en los botones y es de tamaño <em>14px</em>, es
+  recomendable que vayas definiendo estos estilos una vez que
+  visualices el diseño y estés seguro que son los tamaños o grosores
+  adecuados, si los defines antes de visualizarlos en la interfaz
+  puede que al momento que diseñes la interfaz los tamaños no se
+  vean bien es decir, pueden quedar muy pequeños o muy grandes
+  y harías doble trabajo en editar dicho estilo lo cual te consume
+  tiempo que pudiste haber ahorrado.</p>
+
+            <p>Este es todo el proceso para que tengas definidos adecuadamente
+  los estilos de tu tipografía o fuente, recuerda poner etiquetas
+  adecuadas para que puedan identificarse de forma rápida.</p>
+          </li>
+          <li>
+            <p><strong>Iconos:</strong> Para la iconografía por lo general el cliente no tiene
+  mucha intervención, los criterios que se usan para elegir la iconografía
+  dependen mucho de las interfaces en media fidelidad,
+  por ejemplo: <em>Si no existen muchos elementos en la interfaz ni en
+  los componentes puedes optar por usar iconos del tipo Bold, para
+  balancear espacios en blanco</em>, por otro lado, tienes que tomar en
+  cuenta el estilo gráfico general del producto que estas diseñando
+  por ejemplo: <em>Si el estilo gráfico es minimalista tienes que usar
+  iconos del mismo estilo y si el estilo es más amigable puedes usar
+  iconos más divertidos, coloridos etc.</em></p>
+
+            <p>En caso fuera el cliente tuviera una gama de iconos establecida,
+  tendrás que adaptarte y diseñar tu interfaces con dicha gama.</p>
+
+            <p>Dentro del <em>“Design System”</em>, existe un campo llamado <em>Icons</em>, en
+  el cual debes poner todos los iconos que utilices dentro de las
+  interfaces o componentes, seccionados por módulos ejemplo:
+  <em>Profile user icons, servirá de indicador para saber que en esa sección
+  están los iconos usados en el perfil de usuario</em> y así con los demás
+  módulos.</p>
+
+            <p>Es muy importante que definas un <strong>icono como componente y
+  crear sus variantes</strong> cuando el icono tiene mas de un comportamiento, 
+  por ejemplo: <em>el icono de un carrito de compras tiene dos
+  variantes, la primera variante es el icono como tal y la segunda
+  cuando tiene la burbuja que indica que existen ítems en el carrito</em>,
+  definir variantes en los iconos cuando es necesario es muy útil
+  por que ya no tendrás que diseñar o editar cada vez que los
+  uses, te bastará llevar el icono y solo tendrás que seleccionar la
+  variante que desees.</p>
+
+            <p>Este proceso va de la mano con el diseño de los componentes y
+  las interfaces en alta fidelidad, a medida que diseñes irás identificando
+  posibles variantes y recolectando todos lo iconos con sus
+  variantes en la sección <em>Icons</em>, tienes que asegurarte que todos los
+  iconos que se usen en todas las interfaces estén en sus módulos
+  correspondientes y con sus variantes, solo así darás por finalizado
+  este proceso.</p>
+          </li>
+          <li>
+            <p><strong>Componentes y sus variantes:</strong> Esta sección es el corazón del
+  <em>Design System</em>, básicamente un componente es un fragmento de
+  diseño que conforma parte de una interfaz, son fragmentos que
+  por lo general se repiten en varias interfaces y además tienen
+  variantes, por ejemplo: Un <em>Appbar</em> es un elemento que siempre
+  se repite en las interfaces y es un candidato a ser componente
+  además siempre tienen variantes, las mas conocidas pueden ser
+  cuando el AppBar tiene el icono que dirige hacia “atrás” o el icono
+  para “cerrar” etc.</p>
+
+            <p>Entonces tu tarea será identificar estos fragmentos de diseño,
+  definirlos como componentes junto a sus variantes y hacer uso
+  de éstos en las interfaces que diseñes.</p>
+
+            <p>Por otro lado, también tienes que seccionar por módulos tus
+  componentes, para que puedan identificarse a la vista, recuerda
+  que puedes usar un componente dentro de otro componente si
+  es necesario.</p>
+
+            <p>Finalmente, este proceso también va de la mano con el diseño
+  de las interfaces en alta fidelidad, a medida que diseñes irás
+  identificando nuevos componentes y variantes, lo ideal es que si
+  terminaste de diseñar todas las interfaces quiere decir que has
+  terminado de definir todos tus componentes y variantes.</p>
+          </li>
+          <li>
+            <p><strong>Efectos:</strong> Existen casos en los que ciertos efectos como por
+  ejemplo <em>sombras, blur, bordes, etc</em>, se usan en los diferentes elementos
+  o componentes de nuestras interfaces, entonces, como diseñador
+  debes definirlos como estilos con un nombre personalizado como
+  por ejemplo: <em>BlurCardFeed, esto puede indicarnos que tal efecto se
+  está utilizando en las cartillas del feed principal.</em></p>
+
+            <p>Recuerda que existe una plantilla en la <em>Estructura de proyecto</em> que
+  debes seguir para definir tus efectos.</p>
+          </li>
+          <li>
+            <p><strong>Ilustraciones:</strong> En este campo se deben incluir los logos, tanto
+  del cliente como los propios, además se incluyen todas las
+  ilustraciones que por lo general se utilizan para cubrir <em>Empty Interface</em>
+  o ilustraciones que se usan en el <em>Onboarding</em>, todas éstas deben estar en
+  el mismo tamaño como se están utilizando en las
+  interfaces.</p>
+
+            <p>Este proceso es medianamente independiente, los logos tienen
+  que estar desde un principio porque son recursos que puedes
+  necesitar en tus primeras interfaces, en cuanto a las ilustraciones
+  propias de las interfaces puedes ir recolectándolas en el proceso
+  de diseño o al final cuando tengas listas todas tus interfaces
+  en alta fidelidad, lo que puedes hacer es recolectar todas las
+  ilustraciones que usaste y replicarlas en el <em>Design System.</em></p>
+          </li>
+        </ul>
+
+        <p>Si cumpliste con cada una de las sub-etapas descritas, tu <em>Design
+  System</em> está listo.</p>
+
+        <p>Recuerda poner énfasis en esta sección ya que prácticamente allí
+  están todas las fichas de tu rompecabeza, en este caso tu rompecabeza
+  son las Interfaces en alta Fidelidad.</p>
+      </li>
+      <li>
+        <p><strong>¿En qué momento puedo iniciar a constuir el Sistema de diseño o Design System?:</strong>
+  Existen dos posibilidades, la primera es que puedes
+  iniciar a construirlo en paralelo con la etapa de UX, pero solamente
+  hasta la elección de tu tipografía, la segunda es que inicies cuando
+  todo el proceso de UX esté terminado y validado.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Diseño de interfaces en alta fidelidad:</strong>
+  Dentro de la <em>Estructura del
+  proyecto</em> las interfaces en alta fidelidad se encuentran dentro de <em>Sketch
+  Mobile</em>, por ahora el tamaño del <em>frame</em> estándar que se usa es <strong>iPhone8
+  con dimensiones 375 x 667</strong>, para empezar a diseñar tu primera interfaz
+  ten en cuenta ello, no olvides poner un nombre a cada interfaz como
+  corresponda y considera mandar a <em>Recycling</em> las interfaces que tal vez por
+  el momento no te convencen pero mas adelante te pueden volver a servir,
+  así que consérvalas en <em>Recycling</em> ¡no las borres porque si!</p>
+
+    <p>También recuerda que todos los elementos y <em>paddings</em> dentro de la interfaz
+  tienen medidas estándares establecidas en <em>Material Design</em>, debes cumplir
+  dichos estándares.</p>
+
+    <p>A medida que vayas diseñando asegúrate de ir agrupando por módulos
+  tus interfaces por ejemplo: <em>En el módulo “Profile user” deben estar todas las
+  interfaces involucradas con el perfil de usuario</em>, cada módulo debe tener su
+  header lugar donde se detallan datos como última fecha de actualización,
+  nombre del diseñador encargado y estado, tus componentes definidos en
+  el <em>Design System</em> deben reflejarse en las interfaces.</p>
+
+    <p>Dentro de tus interfaces considera lo siguiente:</p>
+
+    <ul>
+      <li><em>Empty interfaces</em> o Interfaces vacías, es decir cuando ciertas interfaces
+no tengan contenido que mostrar debes de mostrar alguna ilustración
+acompañada de un mensaje como por ejemplo <em>Tu carrito de compras
+está vacío</em>.</li>
+      <li>Considera también interfaces para casos de error como por ejemplo:
+<em>Cuando de ha perdido la conexión a internet</em>, estos casos de error
+también pueden manejarse con <em>dialogs</em>, debes escoger la manera mas
+conveniente de manejar estos casos.</li>
+      <li>No olvides considerar también los <em>dialogs</em> cuando se desea salir de
+una interfaz en la cual se han editado datos o se está ejecutando
+alguna funcionalidad, debes mostrar un <em>dialog</em> antes de ejecutar
+dicha acción, estos dialogs por lo general son del tipo: <em>¿Estás seguro
+que quieres salir?</em></li>
+    </ul>
+
+    <p>Asegúrate de haber diseñado todas las interfaces en alta fidelidad, también
+  de que el <em>Design System</em> esté cumpliendo todas la condiciones para darlo
+  por terminado, de ser así podemos decir que la etapa de UI esta lista para
+  ser validada por el cliente, en esta etapa pueden presentarse los siguientes
+  escenarios:</p>
+
+    <p>En caso que el cliente de <em>feedback</em> que implique cambios, estos se harán
+  dependiendo del tiempo y de cuan significantes sean los cambios. Es decir:</p>
+
+    <ul>
+      <li>
+        <p>Si el tiempo se ha cumplido y el cliente demanda cambios grandes, en
+primer lugar se le debe hacer saber que esto incurrirá en aplazar la fecha
+de entrega y tal ves en costos y básicamente dependerá en lo que el
+cliente decida. Si dichos cambios grandes no tienen razón de ser, hazlo
+saber y fundamenta porque no son necesarios, si el cliente acepta tu
+fundamento ¡en hora buena!</p>
+      </li>
+      <li>
+        <p>Si el tiempo se ha cumplido y el cliente demanda cambios pequeños, estos
+por lo general no toma mucho tiempo así que se hacen con normalidad,
+de igual manera si dichos cambios pequeños no tienen razón de ser, hazlo
+saber y fundamenta porque no son necesarios, es probable que el cliente
+acepte tu fundamento, de ser así ¡en hora buena!</p>
+      </li>
+      <li>
+        <p><strong>¿Qué pasa si se me olvidaron detalles pequeños en el Design System o en
+  las interfaces de alta fidelidad?:</strong>
+  Aparentemente esto no va a causar ningún problema en tu <em>Design System</em>
+  o en tus interfaces, puedes ser que por ejemplo: <em>Olvidaste cubrir un caso de
+  error</em>, detalles así en etapas de diseño hasta pueden pasar desapercibidos sin
+  embargo muchas veces se detectan en la etapa de desarrollo y empiezan los
+  conflictos, porque probablemente interrumpamos el trabajo del desarrollador y
+  tendrá que esperar a que diseñes dichas interfaces, esto puede repetirse varias
+  veces si es que dejaste pasar muchos “detalles” que van a generar dependencias
+  que no deberían existir en etapas de desarrollo, porque tales casos debieron
+  cubrirse en la etapa de diseño, por eso es importante que puedas identificar
+  todos los casos especiales posibles en la etapa de diseño.</p>
+
+        <p>Ten en cuenta que no siempre el desarrollador de nuestro equipo será quien
+  programe tu diseño, así que no siempre alguien del entorno te hará saber las
+  falencias de tu diseño, en ocasiones serán desarrollares externos al entorno
+  quienes programen tu diseño por lo que tu <em>Design System</em> y la interfaz en alta
+  fidelidad deben ser capaz de explicarse por si solas y deben estar completas en
+  todo sentido.</p>
+      </li>
+    </ul>
+
+    <p>Finalmente si tu diseño final ha sido validado por el cliente y no existen mayores
+  falencias podemos decir que la etapa UI se ha cumplido satisfactoriamente y estaos
+  listos para pasar a la etapa de testeo con usuarios reales.</p>
+  </li>
+</ul>
+
+<h3 id="test">Test</h3>
+
+<ul>
+  <li>
+    <p><strong>¿Qué es un text con usuarios?:</strong>
+  En diseño, un test con usuarios es el proceso donde usuarios reales prueban en una 
+  versión <em>Demo</em> las principales funcionalidades del producto final. Con el propósito de 
+  medir la usabilidad y satisfacción por parte de los usuarios.</p>
+  </li>
+  <li>
+    <p><strong>¿Por qué hacemos un test con usuarios?:</strong>
+  Es clave hacer un test con usuarios reales en una etapa de diseño porque
+  eso nos permite ver si nuestro producto final, esta cumpliendo los objetivos
+  de negocio, si esta generando interés a los usuarios, si esta satisfaciendo
+  necesidades de los mismos, si tiene errores de usabilidad, si los elementos
+  visuales están conectado con los usuarios etc. Esto con el propósito de corregir
+  posibles errores de usabilidad o errores visuales en la etapa de diseño ya que
+  en esta etapa es menos costoso hacer correcciones.</p>
+  </li>
+  <li>
+    <p><strong>¿Cómo hacer un test de usuario?</strong>
+  Antes de explicar el proceso del test de usuario, debes tener en cuenta que la
+  metodología que actualmente usamos es una <strong>prueba moderada con tareas y
+  en voz alta</strong>, donde básicamente el usuario tiene que cumplir las tareas que
+  definas y mientras cumple las tareas debe pensar en voz alta, por otro lado,
+  existe un documento con la plantilla que debes seguir para todas las fases del
+  test, considerando ello, debes hacer lo siguiente:</p>
+
+    <ul>
+      <li>
+        <p>Primero, debes definir las tareas que realizaran los usuarios, recuerda
+que éstas deben involucrar módulos y acciones principales del producto
+final, por ejemplo: Si se tratara de una aplicación para delivery, una tarea
+principal puede ser <em>“Generar un pedido”, recuerda que las tareas tienen pasos
+a seguir que sirven de guía a los usuarios, por ejemplo “Diríjase a su carrito
+de compras, posteriormente ubique el botón que le permitirá pagar por su
+compra”</em>, el número de tareas pueden variar entre 5 a 6 dependiendo
+cuan complejo o sencillo sea el producto final.</p>
+      </li>
+      <li>
+        <p>Segundo, definir los diferentes perfiles de usuario que necesitaras para
+hacer el test, debes de tener en cuenta que los perfiles que vayas a definir
+tienen que ser potenciales usuarios, con intereses en común y obviamente
+estén relacionado al producto final. Es recomendable tener al menos 1
+usuario genérico, es decir que no necesariamente esté familiarizado con el
+rubro ni sea potencial usuario, pero este tipo de usuario ayuda a evaluar
+mucho mejor la usabilidad del producto.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+:ET

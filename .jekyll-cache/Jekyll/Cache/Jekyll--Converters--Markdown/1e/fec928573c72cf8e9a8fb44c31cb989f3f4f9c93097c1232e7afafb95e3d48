@@ -1,0 +1,119 @@
+I"�<h2 id="funciones">Funciones</h2>
+
+<p>En Paulonia Studio no se manejan puestos de trabajo, ni títulos vinculados a clasificaciones
+como tal. A cambio y en pro de la diversificación y promoviendo el
+entrenamiento de multitareas, usaremos roles, que todos los miembros comparten.</p>
+
+<h3 id="funciones-de-mi-ceo">Funciones de mi CEO</h3>
+
+<ul>
+  <li>Será el principal reconocedor y celebrador de mi trabajo.</li>
+  <li>Sabrá crear un ambiente laboral positivo y alegre.</li>
+  <li>Actuará con moral y ética frente a los nuevos proyectos.</li>
+  <li>Promoverá una cultura organizacional sólida.</li>
+  <li>Actuará de forma decidida, aunque no siempre concuerde con los miembros
+de mi equipo</li>
+  <li>Confiará y generará confianza entre y hacia todo mi equipo, logrando un
+desenvolvimiento óptimo de todos</li>
+  <li>Desarrollará y alimentará las habilidades y competencias de todos los miembros
+de mi equipo</li>
+  <li>Cuidará la buena relación con nuestros clientes y miembros de mi equipo</li>
+  <li>Administrará mis tareas y reuniones a lo largo de un sprint</li>
+</ul>
+
+<h3 id="lo-que-todos-esperan-de-mi">Lo que todos esperan de mi</h3>
+
+<ul>
+  <li>Cumpliré con todas las tareas que mi CEO programe, aunque estas demanden
+trabajar fines de semana.</li>
+  <li>Asistiré a más del 90% de reuniones con miembros de mi equipo o áreas dentro
+de Paulonia.</li>
+  <li>Propiciaré el uso del canal Slack de los proyectos en los cuales esté involucrado,
+tanto para formular o responder preguntas de mi equipo u otras áreas.</li>
+  <li>Estaré dispuesto a sacrificar horas de mi fin de semana en caso exista un
+reporte de error incurrido en mis acciones.</li>
+  <li>Comunicaré nuevas actualizaciones publicadas hacia las distintas áreas y
+miembros de mi equipo, a través del canal Slack.</li>
+  <li>Me mantendré en constante estudio para mejorar mis habilidades y competencias,
+apoyándome en mi CEO y equipo de trabajo.</li>
+  <li>Compartiré mi conocimiento con finalidad de ver a mi equipo y mi empresa
+crecer.</li>
+  <li>Respetaré la estructura que se lleva en las herramientas de trabajo.</li>
+  <li>Mantendré mi propio control de calidad antes, durante y después de cada
+actualización en un proyecto.</li>
+  <li>Respetaré la retroalimentación brindada por los clientes, miembros de mi
+equipo, miembros de otras áreas y mi CEO.</li>
+  <li>Prepararé una documentación de calidad ante eventuales pruebas con usuarios
+o solicitudes hacia mi cliente.</li>
+  <li>Asistiré a las reuniones de inicio de proyecto, a menos que circunstancias
+personales me lo impidan.</li>
+  <li>Respetaré las funciones generales descritas en el <a href="/paulonia_handbook/paulonia">Handbook General de Paulonia</a>.</li>
+</ul>
+
+<h2 id="comunicación">Comunicación</h2>
+
+<p>Muy aparte del control del estado de mis tareas en JIRA, o canales de Slack, que
+suelen tener un tiempo de demora de 24 horas en tener respuestas, daré prioridad
+a las menciones hechas en los comentarios de herramientas como Figma. Estos
+comentarios deben ser respondidos de forma inmediata si me encuentro trabajando
+al mismo tiempo que el solicitante. En caso no estuviera presente para poder
+responderlo inmediatamente aplicaré la regla de las 24 horas.</p>
+
+<p>Por otro lado, si tengo preguntas y encuentro al responsable trabajado al mismo
+tiempo que yo, lo citaré con una pregunta o comentario explicándolo en específico 
+y sin ambigüedades. En caso no estuviera presente, notificaré que he dejado
+comentarios a través del canal Slack.</p>
+
+<p>¿Y si no tengo como citarlo a través de la herramienta empleada? En caso esta
+persona no pueda ser citada, siempre tendré el tablero Jira y mi tarea para citarlo,
+adicionalmente tengo el canal Slack, y el chat privado para una respuesta más
+rápida.</p>
+
+<p>Por ningún motivo debe existir textos que simulen un chat dentro de la herramienta
+para desarrollar un proyecto, por lo que eliminaré estos intentos de chats de forma
+inmediata, y aceptando mi responsabilidad en caso quede al descubierto. Así mismo,
+si existe un tema de interés en todo mi equipo, este será prioritariamente publicado
+en el canal Slack.</p>
+
+<h2 id="roles">Roles</h2>
+
+<p>Aunque se me haya nombrado para un puesto permanente, no me sentiré atrapado
+en él en caso no me sienta cómodo. En caso esto llegue a suceder, comunicaré
+mis deseos ante mi CEO para discutirlo abiertamente con otros miembros de mi
+equipo.</p>
+
+<p>En caso quiera migrar entre diseñador UX y UI, tendré que buscar un reemplazo
+durante el periodo de transición, siempre y cuando ambas partes quedemos cómodos
+con la decisión.</p>
+
+<p>Debo tener en cuenta que roles que impliquen conocimiento o contexto previo, deben
+ser tomados con cuidado, ya que es muy probable no se encuentre un reemplazo
+con un nivel similar o superior.</p>
+
+<h3 id="soy-mentor">Soy mentor</h3>
+
+<p>Dada mi amplia experiencia, seré capaz de instruir y ayudar en la fase de 
+entrenamiento de un nuevo ingresante. Como mentor haré lo siguiente:</p>
+
+<ul>
+  <li>Coordinaré tiempos disponibles para una comunicación síncrona y asíncrona
+con el nuevo ingresante.</li>
+  <li>Instruiré en la herramienta que se empleará en un proyecto, indicando su
+estructura y las mejores y óptimas maneras de desarrollarlo.</li>
+  <li>Brindaré fuentes de recursos para una trabajo estandarizado.</li>
+</ul>
+
+<h3 id="soy-nuevo">!Soy nuevo!</h3>
+
+<p>Si recién me he integrado en el equipo es imperativo cumplir los siguientes puntos:</p>
+
+<ul>
+  <li>Preguntaré a mi CEO o equipo si falta información de los requisitos.</li>
+  <li>Proporcionaré los avances a mi CEO para que pueda brindar ayuda oportuna.</li>
+  <li>Registraré el tiempo dedicado en mi entrenamiento.</li>
+  <li>Recopilaré los problemas con mis tareas o herramientas empleadas en el
+desarrollo de un proyecto para posteriormente informar a mi CEO.</li>
+  <li>No me comprometeré en realizar tareas con un Score mayor a 13.</li>
+  <li>Reportaré si mis tareas tienen dependencias a otras.</li>
+</ul>
+:ET
