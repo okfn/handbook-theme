@@ -29,16 +29,18 @@
   {% endif %}
   
   <ul>
-    {% if site.github_repo and page.edit %}
+    <!--
+    {% if site.github_repo %}
     <li class="edit tooltip-item">
       Improve this page
       
       <span class="tooltip">
-        <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}/edit/gh-pages/{{page.path}}" class="github" rel="external">Edit on Github</a>
+        <a href="https://github.com/{{ site.github_username }}/{{page.path}}" class="github" rel="external">Edit on Github</a>
         <a href="{{ "/contribute/" | prepend: site.baseurl }}" target="_blank">Help and instructions</a>
       </span>
     </li>
     {% endif %}
+    -->
     {% if active_section.translate_link %}
     <li class="translate tooltip-item">
       Translate this page
@@ -85,6 +87,7 @@
       </span>
     </li>
     {% endif %}
+    <!--
     <li class="share tooltip-item">
       Share
       
@@ -93,6 +96,7 @@
         <a href="https://twitter.com/home?status={{page.title }}: {{ site.url }}{{ page.url }}" class="twitter" rel="external">Share on Twitter</a>
       </span>
     </li>
+    -->
     {% if page.section == 'resources' %}
     <li class="add tooltip-item">
       Add a resource
