@@ -90,4 +90,28 @@
       </ul>
     </li>
 
+    <li>
+      <a href="{{ site.baseurl }}/{{ site.handbooks_path }}/contribute">Contribuir al Handbook</a>
+      <ul>
+        <li {% if url_last == 'contribute' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/{{ site.handbooks_path }}/contribute/">Contribuir</a>
+        </li>
+        <li {% if url_last == 'howToDocument' and url_area == 'contribute' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/{{ site.handbooks_path }}/contribute/howToDocument">Crear un Documento</a>
+        </li>
+        <li {% if url_last == 'parameters' and url_area == 'contribute' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/{{ site.handbooks_path }}/contribute/parameters">Parámetros de un documento</a>
+        </li>
+        <li {% if url_last == 'links' and url_area == 'contribute' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/{{ site.handbooks_path }}/contribute/links">Links en un documento</a>
+        </li>
+        <li {% if url_last == 'constants' and url_area == 'contribute' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/{{ site.handbooks_path }}/contribute/constants">Constantes de sitio</a>
+        </li>
+        <li {% if url_last == 'example' and url_area == 'contribute' %}class="Selected"{% endif %}>
+          <a href="{{ site.baseurl }}/{{ site.handbooks_path }}/contribute/example">Documento de ejemplo</a>
+        </li>
+      </ul>
+    </li>
+
 </nav>

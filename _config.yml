@@ -1,8 +1,7 @@
 # Site settings
 title: Paulonia Handbook
 short_title: Paulonia Handbook
-description: |
-    Documentación de todos los procesos de Paulonia.
+description: Documentación de todos los procesos de Paulonia.
 baseurl: ""
 handbooks_path: "paulonia_handbook"
 url: "http://opendatahandbook.org" # the base hostname & protocol for your handbook site
@@ -12,6 +11,8 @@ github_username:  PauloniaAQP
 github_repo:  paulonia_handbook
 contact: https://paulonia.dev/contacto
 
+
+handbook_leader_name: Christofer Chávez
 
 devs:
   -
@@ -62,3 +63,9 @@ defaults:
     values:
       layout: page
       section: Paulonia Handbook
+  -
+    scope:
+      path: "paulonia_handbook/contribute"
+    values:
+      layout: page
+      section: Contribute
