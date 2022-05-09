@@ -1,7 +1,7 @@
 # Site settings
 title: Paulonia Handbook
 short_title: Paulonia Handbook
-description: Documentación de todos los procesos de Paulonia.
+description: Manual para no enloquecer
 baseurl: ""
 handbooks_path: "paulonia_handbook"
 url: "http://opendatahandbook.org" # the base hostname & protocol for your handbook site
